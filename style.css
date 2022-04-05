@@ -1,1 +1,18 @@
 /* YOUR STYLES HERE */
+.logo-img{
+  height: 250px;
+
+}
+
+.small-heading{
+  color: #ffbd6d;
+  text-align: center;
+  border: #ffbd6d 3px;
+  padding: 1rem;
+  background-color: #1d2531;
+}
+
+.thing{
+  border: rebeccapurple solid 10px;
+  border-radius: 10px;
+}
